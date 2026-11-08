@@ -4,7 +4,7 @@
 
 An end-to-end data analytics project for a retail tech store that sells devices (in-store and online) and distributes apps (Apple / Google) in the **US** and **Canada**: synthetic retail dataset generated in **Python**, load it into a relational database through a transactional relational data model with automated loading in **SQL Server**, and turned it into a multi-page report on a real interactive tool **Power BI** with custom navigation, dynamic period selection, and color-coded KPIs.
 
-🔗 **Live Dashboard:** [add your Power BI link here]
+🔗 **Live Dashboard:** [https://app.powerbi.com/view?r=eyJrIjoiYzNjYmM2NWItYjJjMi00ZTZhLTg3ZmYtZjhkOGE5OTgyMDdmIiwidCI6IjQ4MjkzMjgyLTgzMmQtNGQwYi05ZTBmLTVmMmFmYTg5YTFlNCIsImMiOjJ9]
 
 ---
 
